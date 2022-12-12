@@ -1,6 +1,7 @@
 # Yandexlyceum
 def my_superfunction():
     print('What an awesome print!')
+    print('Мы добавили автора')
 
 
 def main():
